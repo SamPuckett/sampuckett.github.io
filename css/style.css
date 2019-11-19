@@ -59,10 +59,11 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 95vh;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
+  background-color: rgba(53, 58, 71, 0.9);
 }
   .parallax-container .section {
     width: 100%;
@@ -106,7 +107,7 @@ footer.page-footer {
 }
 
 .padding-left-50px {
-  padding-left: 50px !important;
+  padding-left: 10vw !important;
 }
 
 .padding-right-50px {
